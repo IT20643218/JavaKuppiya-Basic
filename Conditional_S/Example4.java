@@ -36,8 +36,6 @@ class Example4{
 		System.out.println("Minimum Number is :" + min);
 		System.out.println("Total Value is :" + total);
 		System.out.println("Avarage is :" + avg);
-		
-		
-		
+				
 }
 }
