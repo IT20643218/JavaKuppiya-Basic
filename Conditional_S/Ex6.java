@@ -18,7 +18,6 @@ class Ex6{
 			return total;
 		
 	}
-	
-	
+
 
 }//end class
